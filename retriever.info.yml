@@ -1,0 +1,6 @@
+name: Retriever Module
+description: Module that allows for retrieving various services.
+package: Retriever
+
+type: module
+core: 8.x
